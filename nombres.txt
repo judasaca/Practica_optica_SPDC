@@ -1,0 +1,12 @@
+nombres.txt
+README.md
+tipo1filtrohorizontalcolineal.TXT
+tipo1filtrohorizontal.TXT
+tipo1filtroverticalcolineal.TXT
+tipo1filtrovertical.TXT
+tipo1sinfiltrocolineal.TXT
+tipo1sinfiltro.TXT
+tipo2filtrohorizontal.TXT
+tipo2filtrovertical.TXT
+tipo2sinfiltro.TXT
+Untitled.ipynb
